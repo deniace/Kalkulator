@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="angka_1">angka 1</string>
+    <string name="angka_2">Angka 2</string>
+    <string name="kali">X</string>
+    <string name="bagi">:</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="hasil">Hasil</string>
+</resources>
